@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.git/
+model.ipynb
+india_fraud_transactions_6500_messy.csv
+fraud_detection_model.pkl
